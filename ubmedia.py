@@ -17,8 +17,8 @@ c_time = int(getenv("CHANNEL_DELETE_TIME"))
 api_id= api_id 
 api_hash= api_hash 
 string = string 
-group = -1001555568651
-channel = -1001549897786
+group = -1001742547713
+channel = -1001533995327
 #------------------------------------end
 idss = []
 
